@@ -1,0 +1,1 @@
+This repository represents a part of a research process developed during a PhD. There code performs an analysis of publications related to the topics "regenerative ecology" , "regenerative design" and "regenerative development". 
